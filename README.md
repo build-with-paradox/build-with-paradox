@@ -27,6 +27,8 @@ I help bring your ideas to life by providing tailor-made solutions with cutting-
 Whether you're looking to build a secure **e-commerce platform**, a **SaaS dashboard**, **3D landing page**, or **Your Business WebApp** I’m here to turn your vision into a reality. My services include:
 
 - **E-Commerce Platforms** (Admin, Seller, Buyer management)
+- **FullStack Apps**
+- **Frontend**
 - **Custom 3D Product Visualizations**
 - **Security Audits & Vulnerability Assessments** (VAPT)
 - **Backend APIs** and **Admin Tools Development**
