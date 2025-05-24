@@ -37,7 +37,7 @@ Whether you're looking to build a secure **e-commerce platform**, a **SaaS dashb
 
 I strive for **quick delivery** without compromising on quality. My projects generally follow these timelines:
 
-**Checkout My Notion Doc:** [https://www.notion.so/Build-with-Paradox-1e54649f0294801bb02fd6e78a98f117](Notion Doc)
+**Checkout My Notion Doc:** [Notion Doc](https://www.notion.so/Build-with-Paradox-1e54649f0294801bb02fd6e78a98f117)
 
 ## 🏆 Why Choose Me?
 
