@@ -58,7 +58,7 @@ Together, we can create something extraordinary.
 
 - **[Portfolio](https://www.buildwithparadox.com)** – A collection of my latest work.
 - **[GitHub](https://github.com/build-with-paradox)** – Explore my code repositories.
-- **[Personal Github](https://github.com/Prashant-Bhatt-2000/)
+- **[Personal Github](https://github.com/Prashant-Bhatt-2000/)** - Explore My Personal GitHub Repositories
 - **[LinkedIn](https://www.linkedin.com/in/buildwithparadox)** – Let’s connect professionally.
 - **Contact Me :** [contact@buildwithparadox.com](contact@buildwithparadox.com)
 
